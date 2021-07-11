@@ -20,7 +20,7 @@ section .sdiv2,.sdiv3 div{display:inline-block;}
 section .sdiv2 div{display:inline-block;box-shadow:7px 5px gray;border:none}
 section .aboutme{display:block;text-align:center;}
 section .sdiv2 .img {float:left;width:35%;height:37vh;margin-left:10%;padding:0px;}	
-section .sdiv2 img {float:left;width:100%;height:36vh;}
+section .sdiv2 img {float:left;width:100%;height:37vh;}
 section .sdiv2 .text {float:right;width:40%;height:32vh;margin:0% 6% 0% 0%;background-color:#DDDDDD;padding:18px 15px 18px 18px;}
 section .sdiv2 .text p{text-transform:capitalize;line-height:25px;} 
 section .sdiv3{padding:3% 0% 3% 10%;}
