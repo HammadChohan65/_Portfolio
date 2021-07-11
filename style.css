@@ -1,0 +1,37 @@
+body{background-color:#F4F9F9;}
+header{
+	background-image:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url("images/himg.jpg");
+	background-size:cover;
+	color:white;
+	position:relative;
+	height:70vh;
+	font-family:sans-serif;
+	margin-block-end:0%;
+}
+*{font-family:sans-serif;}
+header span{position:absolute;top:3%;left:3%;}
+header .logo{font-size:2vw;font-family:segoe script;font-weight:bold;color:#DA0037;border:3px solid #DA0037;border-width:0px 4px 4px 0px;padding-right:5px;box-shadow:2px 2px 3px white;border-radius:15px;}
+header .div1 {position:absolute;top:3%;right:3%;}
+header ul li{ display:inline-block;width:8vw;}
+header .div2{position:absolute;top:40%;left:10%;padding:0% 50% 5% 0%;}
+header h1{margin:10px auto 10px auto;font-size:2vw;text-transform:uppercase;}
+header button{background-color:#DA0037;height:6vh;width:15vw;border:none;border-radius:5px;color:white;font-size:16px;text-transform:capitalize;}
+section .sdiv2,.sdiv3 div{display:inline-block;}
+section .sdiv2 div{display:inline-block;box-shadow:7px 5px gray;border:none}
+section .aboutme{display:block;text-align:center;}
+section .sdiv2 .img {float:left;width:35%;height:37vh;margin-left:10%;padding:0px;}	
+section .sdiv2 img {float:left;width:100%;height:auto;}
+section .sdiv2 .text {float:right;width:40%;height:32vh;margin:0% 6% 0% 0%;background-color:#DDDDDD;padding:18px 15px 18px 18px;}
+section .sdiv2 .text p{text-transform:capitalize;line-height:25px;} 
+section .sdiv3{padding:3% 0% 3% 10%;}
+section .sdiv3 div{width:25%;margin-right:5.5%;clear:both;text-align:center;background-color:#DDDDDD;padding:5px 15px 5px 10px;box-shadow:7px 5px gray;border:none;text-transform:capitalize;}
+section .sdiv3 h2{color:#DA0037;text-transform:uppercase;text-align:center;}
+.form{padding:2% 25% 2% 25%;background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url("images/himg.jpg");height:60vh;background-size:cover;color:white;}
+.title{text-align:center;padding:5px 15px 15px 15px;}
+.title h2{color:#DA0037;}
+form .div1{float:left;width:20vw;}
+.form .div1 p{float:left;}
+.form .div1 span {color:#DA0037;font-weight:bold;}
+form .div2{float:right;width:20vw;}
+.div2 input{float:right;background-color:hsla(0,0%,50%,0.5);width:20vw;height:6vh;margin-bottom:7%;border-radius:5px;border:none;color:white;}
+.div2 textarea{float:right;background-color:hsla(0,0%,50%,0.5);width:20vw;border-radius:5px;border:none;color:white;resize:none;}
