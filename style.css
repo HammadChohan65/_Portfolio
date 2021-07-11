@@ -1,6 +1,6 @@
 body{background-color:#F4F9F9;}
 header{
-	background-image:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url("images/himg.jpg");
+	background-image:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url("himg.jpg");
 	background-size:cover;
 	color:white;
 	position:relative;
@@ -26,7 +26,7 @@ section .sdiv2 .text p{text-transform:capitalize;line-height:25px;}
 section .sdiv3{padding:3% 0% 3% 10%;}
 section .sdiv3 div{width:25%;margin-right:5.5%;clear:both;text-align:center;background-color:#DDDDDD;padding:5px 15px 5px 10px;box-shadow:7px 5px gray;border:none;text-transform:capitalize;}
 section .sdiv3 h2{color:#DA0037;text-transform:uppercase;text-align:center;}
-.form{padding:2% 25% 2% 25%;background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url("images/himg.jpg");height:60vh;background-size:cover;color:white;}
+.form{padding:2% 25% 2% 25%;background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url("himg.jpg");height:60vh;background-size:cover;color:white;}
 .title{text-align:center;padding:5px 15px 15px 15px;}
 .title h2{color:#DA0037;}
 form .div1{float:left;width:20vw;}
